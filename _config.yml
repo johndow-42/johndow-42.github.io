@@ -1,0 +1,9 @@
+title: johndow-42
+description: Notes on Windows code-signing, build pipelines, and CI/release tooling.
+theme: minima
+author: johndow-42
+show_excerpts: true
+plugins:
+  - jekyll-feed
+minima:
+  skin: classic
